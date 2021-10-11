@@ -7,5 +7,5 @@ module.exports = {
     }
   },
   lintOnSave: false,
-  publicPath: '/question/'
+  publicPath: 'https://kura000.github.io/vue-question/'
 }
