@@ -95,11 +95,11 @@ export default createStore({
 
   actions: {
     async getQuestionList (context) {
-      const response = await axios.get('/question/json/question.json');
+      const response = await axios.get(`${process.env.BASE_URL}/json/question.json`);
       context.commit('setQuestionList', response.data);
     },
     async getResultList (context) {
-      const response = await axios.get('/question/json/result.json');
+      const response = await axios.get(`${process.env.BASE_URL}/json/result.json`);
       context.commit('setResultList', response.data);
     }
   },
