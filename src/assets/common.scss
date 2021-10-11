@@ -1,0 +1,42 @@
+$black: #333333;
+$light-blue: #E0FBFC;
+$orange: #EE6C4D;
+
+html{
+  font-size: 62.5%;
+  font-family: 'Kiwi Maru', serif;
+  // font-weight: 300, 400, 500
+  letter-spacing: 0.08em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html * {
+  box-sizing: border-box;
+}
+
+#app {
+  background-color: $light-blue;
+  color: $black;
+  min-height: 100vh;
+  padding: 50px 20px 80px;
+  @media screen and (max-width: 767px) {
+    padding: 50px 0;
+  }
+}
+
+.inner{
+  padding: 0 30px;
+  max-width: 670px;
+  width: 100%;
+  margin: auto;
+  @media screen and (max-width: 767px) {
+    padding: 0 5%;
+  }
+}
+
+.sp{
+  display: none;
+  @media screen and (max-width: 767px){
+    display: block;
+  }
+}

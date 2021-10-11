@@ -1,0 +1,134 @@
+[
+  {
+    "number": 1,
+    "question": "おなか空いてる？",
+    "options": [
+      {
+        "id": "1-a",
+        "value": "a",
+        "option": "(a)空いている",
+        "pointThree": "A",
+        "pointTwo": "B",
+        "pointOne": "D"
+      },
+      {
+        "id": "1-b",
+        "value": "b",
+        "option": "(b)空いていない",
+        "pointThree": "H",
+        "pointTwo": "E",
+        "pointOne": "D"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "question": "からだの調子はどう？",
+    "options": [
+      {
+        "id": "2-a",
+        "value": "a",
+        "option": "(a)げんき！",
+        "pointThree": "C",
+        "pointTwo": "B",
+        "pointOne": "F"
+      },
+      {
+        "id": "2-b",
+        "value": "b",
+        "option": "(b)ちょっとおつかれ気味...",
+        "pointThree": "H",
+        "pointTwo": "E",
+        "pointOne": "A"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "question": "最近、人とかかわってる？",
+    "options": [
+      {
+        "id": "3-a",
+        "value": "a",
+        "option": "(a)同じ人とかかわりがち...",
+        "pointThree": "D",
+        "pointTwo": "C",
+        "pointOne": "F"
+      },
+      {
+        "id": "3-b",
+        "value": "b",
+        "option": "(b)色いろな人とかかわっている！",
+        "pointThree": "F",
+        "pointTwo": "E",
+        "pointOne": "H"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "question": "周りにときめくものはある？",
+    "options": [
+      {
+        "id": "4-a",
+        "value": "a",
+        "option": "(a)ときめくものに囲まれてます！",
+        "pointThree": "F",
+        "pointTwo": "B",
+        "pointOne": "H"
+      },
+      {
+        "id": "4-b",
+        "value": "b",
+        "option": "(b)実用性重視かな！",
+        "pointThree": "E",
+        "pointTwo": "G",
+        "pointOne": "H"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "question": "最近、あたらしい発見してる？",
+    "options": [
+      {
+        "id": "5-a",
+        "value": "a",
+        "option": "(a)してます！",
+        "pointThree": "A",
+        "pointTwo": "B",
+        "pointOne": "G"
+      },
+      {
+        "id": "5-b",
+        "value": "b",
+        "option": "(b)してないかも...",
+        "pointThree": "C",
+        "pointTwo": "D",
+        "pointOne": "B"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "question": "インドア派？アウトドア派？",
+    "options": [
+      {
+        "id": "6-a",
+        "value": "a",
+        "option": "(a)インドア派",
+        "pointThree": "G",
+        "pointTwo": "D",
+        "pointOne": "F"
+      },
+      {
+        "id": "6-b",
+        "value": "b",
+        "option": "(b)アウトドア派",
+        "pointThree": "G",
+        "pointTwo": "A",
+        "pointOne": "C"
+      }
+    ]
+  }
+]
